@@ -1,0 +1,8 @@
+node_modules
+*.lock
+.idea
+.DS_Store
+*.js.map
+*.js
+package-lock.json
+/dist
